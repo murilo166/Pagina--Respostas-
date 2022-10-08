@@ -1,4 +1,4 @@
-# Pagina--Respostas-
+# Pagina Respostas
 Neste Projeto chamado "cronologia" Proposto pelo meu professor. pesquisei a evoluçâo do site  New york Times e criei uma pagina simples para escrever as minhas opiniões a reseito da evolução do site
 
 ## Linguagens Utilizadas
